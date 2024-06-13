@@ -1,6 +1,6 @@
 {
   "name": "react-native-leaflet-ts",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "React Native Leaflet with Typescript support",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -52,25 +52,25 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.18.2",
-    "@commitlint/config-conventional": "^17.0.2",
-    "@react-native-community/eslint-config": "^3.0.2",
-    "@release-it/conventional-changelog": "^5.0.0",
-    "@types/jest": "^28.1.2",
+    "@babel/eslint-parser": "7.18.2",
+    "@commitlint/config-conventional": "17.0.2",
+    "@react-native-community/eslint-config": "3.0.2",
+    "@release-it/conventional-changelog": "5.0.0",
+    "@types/jest": "28.1.2",
     "@types/react": "18.0.21",
     "@types/react-native": "0.70.4",
-    "eslint": "^8.4.1",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "jest": "^28.1.1",
-    "pod-install": "^0.1.0",
-    "prettier": "^2.0.5",
+    "eslint": "8.4.1",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "jest": "28.1.1",
+    "pod-install": "0.1.0",
+    "prettier": "2.0.5",
     "react": "18.2.0",
     "react-native": "0.70.2",
-    "react-native-builder-bob": "^0.18.3",
+    "react-native-builder-bob": "0.18.3",
     "react-native-webview": "11.25.0",
-    "release-it": "^15.0.0",
-    "typescript": "^4.8.4"
+    "release-it": "15.0.0",
+    "typescript": "4.8.4"
   },
   "resolutions": {
     "@types/react": "18.0.21",
@@ -133,6 +133,6 @@
     ]
   },
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "5.2.3"
   }
 }
